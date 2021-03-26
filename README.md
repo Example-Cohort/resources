@@ -1,4 +1,4 @@
 # resources
 - [Class recordings]()
-- [Configuration instructions]()
+- [Configuration instructions](https://github.com/Example-Cohort/Configuration)
 - [Independent practice]()
